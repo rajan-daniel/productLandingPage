@@ -1,0 +1,105 @@
+:root {
+    background-color: rgb(247, 192, 192);
+    font-family: Coolvetica Rg;
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'Coolvetica Rg';
+    src: url('assets/Coolvetica\ Rg.otf') format('woff2')
+}
+
+.banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+}
+
+#navbar {
+    font-size: 30px;
+    margin: 50px
+}
+
+/* TOP MENU*/
+/***************************/
+.tabs {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.tabs a {
+    margin: 20px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.feature {
+    margin: 20px;
+    margin-top: 244px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.feature img {
+    width: 100px;
+    /* or a percentage, e.g., 50% */
+    height: auto;
+    /* keeps the aspect ratio */
+}
+
+.boards {
+    margin: 20px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.board img {
+    width: 300px;
+    /* or a percentage, e.g., 50% */
+    height: auto;
+    /* keeps the aspect ratio */
+}
+
+.form {
+    margin: 20px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.footer {
+    margin: 20px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+button:hover {
+  cursor: pointer; /* Changes cursor to a hand pointer */
+}
+/***************************/
