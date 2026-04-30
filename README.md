@@ -36,6 +36,4 @@ The idea was inspired by the custom keyboard hobby—where enthusiasts build, mo
 ### 🎯 Key Takeaway  
 This project helped me understand how real product landing pages are structured and how HTML and CSS work together to create a complete, interactive website experience.
 
----
-
 https://github.com/user-attachments/assets/7d318a6f-8780-4ec6-8841-c78fbd07f1fa
